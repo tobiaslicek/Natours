@@ -35,7 +35,7 @@ body {
 
 .heading-primary {
   animation: moveInLeft 1s ease-in;
-  backface-visibility: hidden;
+  backface-visibility: hidden; 
 }
 
 .heading-primary-sub {
